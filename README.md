@@ -31,7 +31,7 @@ Our approach involves the following key steps:
 
 To get started with this project, follow these steps:
 
-1. **Clone the Repository:** git clone https://github.com/your-username/StockTrendPredictor.git
+1. **Clone the Repository:** git clone https://github.com/ashwanth-draksha/StockTrendPredictor.git
 2. **Execute** Use the jupyter notebook to run the code sequentially and experiment with other stocks.
 
 # Acknowledgements
